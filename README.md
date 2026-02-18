@@ -5,7 +5,7 @@ A production-ready Expense Manager Android application built using **Java, XML, 
 This project demonstrates real-world financial tracking features including income & expense management, visual analytics, secure authentication, and AdMob monetization.
 
 ------------------------------------------------------------
-![Demo App](/app/src/main/res/drawable/maxresdefault-15.jpg)
+![Demo App](drawable/maxresdefault-15.jpg)
 ------------------------------------------------------------
 
 Perfect for:
